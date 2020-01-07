@@ -1,6 +1,6 @@
 {
 	"name": "react-native-recaptcha-v2",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Implement Google recaptcha v2 in React Native (both Android an iOS)",
 	"main": "index.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/xuho/react-native-recaptcha-v2.git"
+		"url": "git+https://github.com/ehbasouri/react-native-recaptcha-v2.git"
 	},
 	"keywords": [
 		"react-native",
@@ -22,9 +22,9 @@
 	"author": "xuho",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/xuho/react-native-recaptcha-v2/issues"
+		"url": "https://github.com/ehbasouri/react-native-recaptcha-v2/issues"
 	},
-	"homepage": "https://github.com/xuho/react-native-recaptcha-v2#readme",
+	"homepage": "https://github.com/ehbasouri/react-native-recaptcha-v2#readme",
 	"peerDependencies": {
 		"react": "*",
 		"react-native": "*",

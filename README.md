@@ -15,7 +15,7 @@
 
 ## Usage
 
-### Check demo in [Snack link](https://snack.expo.io/@xuho95/react-native-recaptcha-v2)
+### Check demo in [Snack link](https://snack.expo.io/@ehbasouri/react-native-recaptcha-v2)
 
 
 ```javascript
